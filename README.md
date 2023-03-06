@@ -1,11 +1,11 @@
 # 赵桐
 
-## 教育经历
+## 教育经历 (Educational Background)
 - 博士：2021年-今，华东师范大学，心理与认知科学学院，应用心理学专业<br>
 Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology
 
 
-## 研究兴趣
+## 研究兴趣 (Research Interests)
 - 稀缺<br>
 Scarcity
 - 营销<br>
@@ -13,11 +13,11 @@ Marketing
 - 助推<br>
 Nudge
 
-## 科研经历
-### 学术论文
+## 研究 (Research)
+### 学术论文 (Articles)
 注释：<sup>#</sup>通讯作者<br>
 Note: <sup>#</sup>corresponding author
-#### 待发表（Working Papers）
+#### 待发表 (Working Papers)
 - **Zhao, T.**, Yang, Y., & Cui, L. (under review). How self-compassion components develop in adolescents? Evidence from cross-lagged panel network analysis.
 - **Zhao, T.**, Yang, Y., & Cui, L. (under review). Dream bigger or work harder? Congruency and incongruency in cognitional and actional future orientation: Using response surface analysis to examine links with left-behind children' life satisfaction.
 - Pan, F., Feng, N., **Zhao, T.**<sup>#</sup>, Jiang, Y., & Cui, L. (under review). “Helping others makes me feel better”: Trait gratitude, resilience, and helping behavior improve mental health during a COVID-19 lockdown.
@@ -34,13 +34,13 @@ Liang, X., Guo, X., & **Zhao, T.** (2020). The impact of short-video use on depr
 - 梁晓燕, **赵桐**, 刘晓飞. (2018). 父母关系积极感知对浪漫关系的影响：链式中介效应分析. *中国临床心理学杂志*, *26*(6), 1158-1162+1118. [http://doi.org/10.16128/j.cnki.1005-3611.2018.06.023](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoBd0YvsUPGl3A8skwCf019zkqgn3gBEdEokGRejl4ta-&uniplatform=NZKPT)<br>
 Liang, X., **Zhao, T.**, & Liu, X. (2018). The impact of perceived positive inter-parental relationship on romantic satisfaction. *Chinese Journal of Clinical Psychology*, *26*(6), 1158-1162+1118.
 
-### 会议报告
+### 会议报告 (Conference Presentations)
 - **赵桐**, 杨莹, 崔丽娟. (2022). Dream bigger or work harder? Exploring the distinguished roles of cognitional and actional future orientation on left-behind children' life satisfaction, 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
 **Zhao, T.**, Yang, Y., & Cui, L. (2022). Dream bigger or work harder? Exploring the distinguished roles of cognitional and actional future orientation on left-behind children' life satisfaction, Paper presented at 2022 Annual Academic Conference of Chinese Association of Social Psychology, Changsha, Hunan, China (online).
 
 
-### 项目参与
-- 国家社会科学基金重大项目（NO.19ZDA357），留守儿童社会适应促进与反社会人格预防研究，参与
-- 华师人文社会科学精品力作培育项目（2019ECNU—JP005），人与城市：地方依恋与社会治理，参与
-- 国家社会科学基金青年项目（NO.22CSH091），累积生态风险视角下流动儿童心理健康问题的发生机制及干预研究，参与
+### 项目参与 (Grants)
+- 国家社会科学基金重大项目(NO.19ZDA357)，留守儿童社会适应促进与反社会人格预防研究，参与
+- 华师人文社会科学精品力作培育项目(2019ECNU-JP005)，人与城市：地方依恋与社会治理，参与
+- 国家社会科学基金青年项目(NO.22CSH091)，累积生态风险视角下流动儿童心理健康问题的发生机制及干预研究，参与
 
