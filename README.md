@@ -10,6 +10,8 @@ Ph.D.: East China Normal University, School of Psychology and Cognitive Science,
 Scarcity
 - 营销<br>
 Marketing
+- 助推<br>
+Nudge
 
 ## 科研经历
 ### 学术论文
