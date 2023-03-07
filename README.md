@@ -3,6 +3,8 @@
 ## 教育经历 (Educational Background)
 - 博士：2021年-今，华东师范大学，心理与认知科学学院，应用心理学专业<br>
 Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology
+- 硕士：2017年-2018年，山西大学，教育科学学院，应用心理专业<br>
+Master: Shanxi University, School of Educational Science, Applied Psychology
 
 
 ## 研究兴趣 (Research Interests)
