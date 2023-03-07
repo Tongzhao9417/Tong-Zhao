@@ -37,7 +37,7 @@ Liang, X., Guo, X., & **Zhao, T.** (2020). The impact of short-video use on depr
 Liang, X., **Zhao, T.**, & Liu, X. (2018). The impact of perceived positive inter-parental relationship on romantic satisfaction. *Chinese Journal of Clinical Psychology*, *26*(6), 1158-1162+1118.
 
 ### 会议报告 (Conference Presentations)
-- **赵桐**, 杨莹, 崔丽娟. (2022). Dream bigger or work harder? Exploring the distinguished roles of cognitional and actional future orientation on left-behind children' life satisfaction, 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
+- **赵桐**, 杨莹, 崔丽娟. (2022). “志存高远”还是“勤勉笃行”？未来取向在认知和行动上的差异对留守儿童生活满意度的影响, 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
 **Zhao, T.**, Yang, Y., & Cui, L. (2022). Dream bigger or work harder? Exploring the distinguished roles of cognitional and actional future orientation on left-behind children' life satisfaction, Paper presented at 2022 Annual Academic Conference of Chinese Association of Social Psychology, Changsha, Hunan, China (online).
 
 
