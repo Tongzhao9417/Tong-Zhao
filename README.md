@@ -21,7 +21,7 @@ Nudge
   * Mplus
   * Python
   * SPSS Syntax
-- 其他编程语言
+- 其他编程语言 (Other Programming Language)
   * JavaScript
   * Java
 
