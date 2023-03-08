@@ -15,6 +15,16 @@ Marketing
 - 助推<br>
 Nudge
 
+## 编程语言 (Programming Skill)
+- 统计相关 (Statistical Programming Language)
+  * R
+  * Mplus
+  * Python
+  * SPSS Syntax
+- 其他编程语言
+  * JavaScript
+  * Java
+
 ## 研究 (Research)
 ### 学术论文 (Articles)
 注释：<sup>#</sup>通讯作者<br>
