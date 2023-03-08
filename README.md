@@ -24,7 +24,7 @@ Nudge
 - 其他编程语言 (Other Programming Language)
   * JavaScript
   * Java
-  * SQL
+  * SQ
 
 ## 研究 (Research)
 ### 学术论文 (Articles)
