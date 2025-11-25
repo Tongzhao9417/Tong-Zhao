@@ -8,12 +8,10 @@ Master: Shanxi University, School of Educational Science, Applied Psychology
 
 
 ## 研究兴趣 (Research Interests)
-- 稀缺<br>
-Scarcity
-- 营销<br>
-Marketing
-- 助推<br>
-Nudge
+- 廉政心理<br>
+The Psychology of Anti-Corruption
+- 不道德行为<br>
+Immoral Behavior
 
 ## 编程语言 (Programming Skill)
 - 统计相关 (Statistical Programming Language)
@@ -31,9 +29,11 @@ Nudge
 注释：<sup>#</sup>通讯作者<br>
 Note: <sup>#</sup>corresponding author
 #### 待发表 (Working Papers)
-- **Zhao, T.**, Yang, Y., & Cui, L. (under review). How self-compassion components develop in adolescents? Evidence from cross-lagged panel network analysis.
-- **Zhao, T.**, Yang, Y., & Cui, L. (under review). Dream bigger or work harder? Congruency and incongruency in cognitional and actional future orientation: Using response surface analysis to examine links with left-behind children' life satisfaction.
-- Pan, F., Feng, N., **Zhao, T.**<sup>#</sup>, Jiang, Y., & Cui, L. (under review). “Helping others makes me feel better”: Trait gratitude, resilience, and helping behavior improve mental health during a COVID-19 lockdown.
+- **Zhao, T.**, Zhang, S., Zhang. J., Hu. Y.<sup>#</sup>, Cui. L. Who engages in corruption? Moral- and ego-related traits predict subgroups with distinct corrupt response patterns
+- **Zhao, T.**, Yang, Y., & Cui, L. (under review). Thinking Versus Doing: How Congruency Between Cognitive and Actional Future Orientation Affects Left-Behind Children's Life Satisfaction.
+
+#### 2024
+- **Zhao, T.**, Yang, Y., & Cui, L. (2024). How self-compassion components develop in adolescents? Evidence from cross-lagged panel network analysis with gender considerations. Applied Research in Quality of Life, 19(5), 2767–2784.
 
 #### 2022
 - 梁晓燕, 蔺文韬, **赵桐**, 郭晓荣. (2022). 大学新生时间管理倾向、手机依赖与无聊倾向的关系：一项交叉滞后研究. *心理科学*, *45*(5), 1214-1221. [http://doi.org/10.16719/j.cnki.1671-6981.20220524](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XQiheEJqtEzBxGhqDJaiOyHBI5z8SfTOLT-22RGUnmtC&uniplatform=NZKPT)<br>
